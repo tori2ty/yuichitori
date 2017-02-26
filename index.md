@@ -1,3 +1,47 @@
+# Yuichi Toritani
+### Nationality
+Japanese
+### Resides
+Yamaichi Musashino Heights 301, Kichijoji-kitamachi, Musashino, Tokyo
+### Phone Number
+080-3577-3908
+### yuichitoritani@me.com
+
+## Education
+2000-2004 Tokyo Tech Univ.
+2005-2008 Meiji Gakuin
+
+## Qualifications
+N/A
+
+##Summary
+- Hello
+- My friends
+- chao
+
+## Career History
+2007 - 2014
+### K21 K.K.
+#### Operator
+#### Application
+Adobe CC, Google Analytics
+
+
+2014 - Present
+###Vision Create K.K.
+#### Architect, Data Analyst, Directer
+
+
+
+
+## Computer Skills
+- MS Word, Excel, PowerPoint(Also Google Apps)
+- SQL
+- Html5, CSS
+- Javascript
+- JAVA
+- Python
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tori2ty/yuichitori.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
