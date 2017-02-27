@@ -16,15 +16,21 @@ yuichitoritani@me.com
 2001-2005 Tokyo Indtitute of Technology School of Computing - Department of Computer Science
 
 2005-2008 Meiji Gakuin university Major of Psychology
+
 ---
+
 ## Qualifications
 N/A
+
 ---
+
 ## Summary
 - Hello
 - My friends
 - chao
+
 ---
+
 ## Career History
 _2007(Internship) - 2014_
 ### K21 K.K.
@@ -84,6 +90,7 @@ _2014 - Present_
 
 
 ---
+
 ## Computer Skills
 - MS Word, Excel, PowerPoint(Also Google Apps)
 - SQL
