@@ -1,4 +1,4 @@
-<link href="common.css" rel="stylesheet"></link>
+<link href="common.css" rel="stylesheet">
 # Yuichi Toritani
 ### Nationality
 Japanese
