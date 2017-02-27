@@ -11,7 +11,9 @@ yuichitoritani@me.com
 
 ## Education
 1998-2001 Sasebo North High-School
+
 2001-2005 Tokyo Indtitute of Technology School of Computing Department of Computer Science
+
 2005-2008 Meiji Gakuin university Major of Psychology
 
 ## Qualifications
