@@ -16,7 +16,7 @@ yuichitoritani@me.com
 ## Qualifications
 N/A
 
-##Summary
+## Summary
 - Hello
 - My friends
 - chao
@@ -28,44 +28,45 @@ N/A
 #### Operator
 #### Director
 #### Application & Framework
-Adobe Photoshop, Illustrator, Fireworks, AfterEffect, Premier Pro
-Google Analytics
-Movabletype
-WordPress
-EC CUBE
-MySQL(phpMyAdmin)
-Git
-Svn
-Mobile Carrer Tools(Docomo, Au, Softbank)
-Codeigniter
-Eclipse
-Android Developer Tools
-Apache Cordova
-Redmine
-Backlog
+- Adobe Photoshop, Illustrator, Fireworks, AfterEffect, Premier Pro
+- Google Analytics
+- Movabletype
+- WordPress
+- EC CUBE
+- MySQL(phpMyAdmin)
+- Git
+- Svn
+- Mobile Carrer Tools(Docomo, Au, Softbank)
+- Codeigniter
+- Eclipse
+- Android Developer Tools
+- Apache Cordova
+- Redmine
+- Backlog
+
 
 2014 - Present
-###Vision Create K.K.
+### Vision Create K.K.
 #### Directer
 #### Architect
 #### Data Analyst
 #### Application & Framework
-Ecommerce ASP, SaaS(Makeshop, EbisuMart)
-SiteMetrix
-USERDIVE
-Google Tagmanager
-Adobe Marketing Cloud(inc. SiteCatalyst)
-Zend
-Node.js
-SpringBoot
-Oracle DB
-Microsoft Access
-Salesforce
-MSSQL
-QlickView
-Dynamics CRM
-SPSS
-gigya
+- Ecommerce ASP, SaaS(Makeshop, EbisuMart)
+- SiteMetrix
+- USERDIVE
+- Google Tagmanager
+- Adobe Marketing Cloud(inc. SiteCatalyst)
+- Zend
+- Node.js
+- SpringBoot
+- Oracle DB
+- Microsoft Access
+- Salesforce(APEX)
+- MSSQL
+- QlickView
+- Dynamics CRM
+- SPSS
+- gigya
 
 
 
