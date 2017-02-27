@@ -78,7 +78,7 @@ _2014 - Present_
 - Google Tagmanager
 - Adobe Marketing Cloud(inc. SiteCatalyst)
 - Zend
-- Node.js
+- Node
 - SpringBoot
 - Oracle DB
 - Microsoft Access
@@ -88,7 +88,9 @@ _2014 - Present_
 - Dynamics CRM
 - SPSS
 - gigya
-
+- MailPublisher
+- HeartCore
+- SitePUBLIS
 
 
 ---
