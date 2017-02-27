@@ -9,7 +9,9 @@ Yamaichi Musashino Heights 301, Kichijoji-kitamachi, Musashino, Tokyo
 080-3577-3908
 ### E-mail
 yuichitoritani@me.com
+
 ---
+
 ## Education
 1998-2001 Sasebo North High-School
 
