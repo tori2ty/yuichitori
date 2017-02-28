@@ -4,7 +4,7 @@
 ### Nationality
 Japanese
 ### Resides
-Yamaichi Musashino Heights 301, Kichijoji-kitamachi, Musashino, Tokyo
+Yamaichi Musashino Heights 301, 3-5-15, Kichijoji-kitamachi, Musashino, Tokyo
 ### Phone Number
 080-3577-3908
 ### E-mail
