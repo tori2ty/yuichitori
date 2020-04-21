@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta name="robots" content="noindex">
+    <meta charset="UTF-8">
+
+    <!-- common -->
+    <script src="https://epark-wp-cdn.gs8-web.com/gs8webpersonalization/js/gs_wp.js"></script>
+    <!-- tracking -->
+    <script type="text/javascript">
+        if (typeof GS !== "undefined") {
+    var tparam = {
+            siteId: 1
+    };
+    GS.track("epark", "5a5a8d94b96f71848f33b20acc5f8258590141050e1ce6b4fa91b2d8ef67e314d8357995d947753644a415158ae68a7ce59445e6333d5178ea58656795a5b778", tparam, {Domain: "epark.jp"});
+    }
+    </script>
+
+
+
+    <!-- recommend -->
+    <script type="text/javascript">
+    if (typeof GS !== "undefined") {
+    var areas = ["test1", "test2","test3"];
+    var items = [];
+    var rparam = {
+        cid: "5a5a8d94b96f71848f33b20acc5f8258590141050e1ce6b4fa91b2d8ef67e314d8357995d947753644a415158ae68a7ce59445e6333d5178ea58656795a5b778",
+        type: "banner",
+        siteId: 1
+    };
+
+    GS.recommend (areas, rparam, items);
+    }
+     </script>
+
+
+    <title>GS8 サンプルページ</title>
+  </head>
+  <body>
+
+
+<h1>GS8用サンプルページ</h1>
+<p>特にresetのcssやJSフレームワークは入れていないので適宜GTM経由で追加してください。</p>
+<section id="first">
+    <h3>div idがtest1の枠</h3>
+  <div id="test1"></div>
+</section>
+<section id="second">
+    <h3>div idがtest2の枠</h3>
+  <div id="test2"></div>
+</section>
+<section id="third">
+    <h3>div idがtest3の枠</h3>
+  <div id="test3"></div>
+</section>
+  </body>
+</html>
