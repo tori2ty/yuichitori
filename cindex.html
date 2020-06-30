@@ -64,7 +64,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
      </script>
 
-
+    <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
     <!-- <section id="direct_content">
      <div id="forlog-1">
@@ -88,7 +88,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .Bnr{
   position: relative;
   margin: 0 auto;
-  width: 1200px;
+  /*width: 1200px;*/
   display: none;
   font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック",Osaka,sans-serif !important;
 }
@@ -100,8 +100,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   z-index: 88;
 }
 .Bnr__img__inner{
-  width: 1200px;
-  height: 80px;
+  width: 100%;
+  min-width: 280px;
+  max-width: 500px;
+  height: auto;
   box-sizing:border-box;
   padding: 10px;
   background-color: #fafafa;
@@ -137,7 +139,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
  $(function () {
      var display = function () {
-     if ($(this).scrollTop() > 150) { //scroll量
+     if ($(this).scrollTop() > 5) { //scroll量
              $(".Bnr").fadeIn();
          } else {
              $(".Bnr").fadeOut();
