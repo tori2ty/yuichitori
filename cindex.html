@@ -95,8 +95,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .Bnr .Bnr__img{
   position: fixed;
   bottom: 0;
- 
-  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
   z-index: 88;
 }
 .Bnr__img__inner{
@@ -114,7 +112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .Bnr .Bnr__img p.close{
   position: absolute;
   right: 10px;
-  top:10px;
+  top:0px;
 }
 .Bnr .Bnr__img p.close a{
   display: block;
@@ -129,7 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   overflow: hidden;
 }
 .Bnr .Bnr__img p.close a i{
-  font-size: 20px;
+  font-size: 25px;
   z-index: 888;
   color: #222;
 }
@@ -139,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
  $(function () {
      var display = function () {
-     if ($(this).scrollTop() > 5) { //scroll量
+     if ($(this).scrollTop() > 1) { //scroll量
              $(".Bnr").fadeIn();
          } else {
              $(".Bnr").fadeOut();
@@ -160,7 +158,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <div class="Bnr__img">
     <div class="Bnr__img__inner">
         <a href='https://mitsuraku.jp/lpe/selectpoint_em_500/?media=voucher.epark.jp&utm_source=voucher.epark.jp&utm_campaign=selectpoint_em_500&utm_medium=banner&utm_content=cpncamp_gtm'
-        target='_blank'><img src='https://cpcapf-img.epark.jp/banner/202006/fdoc_20200604174955.jpg'></a>
+        target='_blank'><img src='https://cpcapf-img.epark.jp/banner/202006/fdoc_20200604174955.jpg' width="100%"></a>
     <!-- /.Bnr__img__inner --></div>
     <p class="close"><a href="javascript:void(0)"><span>閉じる</span><i aria-hidden="true" class="fa fa-times"></i></a></p>
     <!-- /.Bnr__img --></div>
