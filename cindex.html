@@ -82,5 +82,89 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      
      </section>
     
+    
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+<style>
+    .Bnr{
+  position: relative;
+  margin: 0 auto;
+  width: 1200px;
+  display: none;
+  font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック",Osaka,sans-serif !important;
+}
+.Bnr .Bnr__img{
+  position: fixed;
+  bottom: 0;
+ 
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  z-index: 88;
+}
+.Bnr__img__inner{
+  width: 1200px;
+  height: 80px;
+  box-sizing:border-box;
+  padding: 10px;
+  background-color: #fafafa;
+}
+.Bnr .Bnr__img__inner a{
+  display: block;
+}
+.Bnr .Bnr__img p.close{
+  position: absolute;
+  right: 10px;
+  top:10px;
+}
+.Bnr .Bnr__img p.close a{
+  display: block;
+  width: 20px;
+  height: 25px;
+  text-align: center;
+}
+.Bnr .Bnr__img p.close a span{
+  display: block;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.Bnr .Bnr__img p.close a i{
+  font-size: 20px;
+  z-index: 888;
+  color: #222;
+}
+</style>
+<script>
+    (function($) {
+ 
+ $(function () {
+     var display = function () {
+     if ($(this).scrollTop() > 150) { //scroll量
+             $(".Bnr").fadeIn();
+         } else {
+             $(".Bnr").fadeOut();
+         }
+     };
+     $(window).on("scroll", display);
+     //click
+     $(".Bnr p.close a").click(function(){
+     $(".Bnr").fadeOut();
+     $(window).off("scroll", display);
+     });
+ });
+  
+ })(jQuery);
+</script>
+
+<div class="Bnr">
+    <div class="Bnr__img">
+    <div class="Bnr__img__inner">
+        <a href='https://mitsuraku.jp/lpe/selectpoint_em_500/?media=voucher.epark.jp&utm_source=voucher.epark.jp&utm_campaign=selectpoint_em_500&utm_medium=banner&utm_content=cpncamp_gtm'
+        target='_blank'><img src='https://cpcapf-img.epark.jp/banner/202006/fdoc_20200604174955.jpg'></a>
+    <!-- /.Bnr__img__inner --></div>
+    <p class="close"><a href="javascript:void(0)"><span>閉じる</span><i aria-hidden="true" class="fa fa-times"></i></a></p>
+    <!-- /.Bnr__img --></div>
+    <!-- /.Bnr --></div>
+    
+    
+    
   </body>
 </html>
