@@ -10,8 +10,8 @@
 
 <h1>GS8用サンプルページ</h1>
 <section id="first">
-    <h3>div idがtest1の枠</h3>
-  <div id="test1"></div>
+    <h3>div idがstg_cpn_sp_footerの枠</h3>
+  <div id="stg_cpn_sp_footer"></div>
 </section>
 <section id="second">
     <h3>div idがtest2の枠</h3>
@@ -42,12 +42,12 @@
     <script type="text/javascript">
     window.onload = function () {
     if (typeof GS !== "undefined") {
-    var areas = ["topPC"];
+    var areas = ["stg_cpn_sp_footer"];
     var items = [];
     var rparam = {
         cid: "5a5a8d94b96f71848f33b20acc5f8258590141050e1ce6b4fa91b2d8ef67e314d8357995d947753644a415158ae68a7ce59445e6333d5178ea58656795a5b778",
         type: "banner",
-        siteId: 11
+        siteId: 2
     };
 
     GS.recommend (areas, rparam, items);
